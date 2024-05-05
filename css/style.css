@@ -22,7 +22,7 @@
 .nav_item{
     margin-right: 52px;
     color: rgb(255, 255, 255);
-    font-family: Inter;
+    font-family: "Merriweather";
     font-size: 18px;
     font-weight: 400;
     line-height: 21.78px;
@@ -43,7 +43,7 @@
 }
 .container_hero-title{
     color: rgb(228, 228, 228);
-    font-family: Inter;
+    font-family: "Merriweather";
     font-size: 64px;
     font-weight: 400;
     line-height: 77.45px;
@@ -58,7 +58,7 @@ padding: 60px 0;
 }
 .about__title{
     color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "Merriweather";
 font-size: 28px;
 font-weight: 400;
 line-height: 33.89px;
@@ -74,7 +74,7 @@ margin-bottom: 60px;
 }
 .about__text{
     color: rgb(228, 228, 228);
-    font-family: Inter;
+    font-family: "Merriweather";
     font-size: 28px;
     font-weight: 400;
     line-height: 33.89px;
@@ -90,7 +90,7 @@ margin-bottom: 60px;
 }
 .video__title{
     color: rgb(228, 228, 228);
-    font-family: Inter;
+    font-family: "Merriweather";
     font-size: 48px;
     font-weight: 400;
     line-height: 58.09px;
@@ -129,7 +129,7 @@ margin-bottom: 60px;
 }
 .footer__title{
     color: rgb(228,228,228);
-    font-family: Inter;
+    font-family: "Merriweather";
     font-size: 30px;
     font-weight: 400;
     line-height: 36.31px;
@@ -137,7 +137,7 @@ margin-bottom: 60px;
 }
     .footer__text{
         color: rgb(228,228,228);
-        font-family: Inter;
+        font-family: "Merriweather";
         font-size: 30px;
         font-weight: 400;
         line-height: 36.31px;
